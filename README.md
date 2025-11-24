@@ -1,57 +1,93 @@
 # Hi, I'm Ysidro 👋
 
-I'm a Web Developer with 8+ years of experience building websites, web applications, and API-driven integrations.  
-I work mainly with **JavaScript, React, WordPress, Node.js, and Flutter**.
+I'm a Web & Mobile Developer with 5+ years of experience building **API-driven web applications, custom WordPress plugins, and Flutter mobile apps**.  
+My work focuses on integrating external services, optimizing workflows, and creating practical solutions for real-world problems.
 
-- 🔌 **Third-party API integrations**: PayPal, SendGrid, Facebook Business, Google DV360, YouTube API, Google Maps, Mapbox, OpenStreetMap, HubSpot, and others.
-- 🌐 **Web & WordPress**: Custom themes, plugins, and advanced WooCommerce integrations.
-- 📱 **Mobile**: Educational Flutter apps to practice navigation, state management, and clean architecture.
-- 🤖 **AI-assisted development**: Daily use of ChatGPT, Claude, Gemini, and GitHub Copilot to improve code quality and speed.
+I enjoy working on projects that involve:
+- 🔌 **Third-party API integrations**
+- 🌐 **Custom WordPress/WooCommerce development**
+- 📱 **Flutter apps with clean UI & state management**
+- 🤖 **AI-assisted development workflows**
 
 ---
 
-## 🔧 Tech Stack
+## 🔥 What I’m Good At
+
+### 🧩 **Third-Party API Integrations**
+I have extensive experience integrating external APIs across different platforms:
+
+- **Payments:** PayPal, CardNet (DR), custom checkouts  
+- **Marketing:** SendGrid, Facebook Business, Google DV360, YouTube API  
+- **Maps & Location:** Google Maps, Mapbox, OpenStreetMap  
+- **CRM & Data Sync:** HubSpot, custom sync pipelines  
+- **Reporting:** Multi-API reporting & automation for marketing teams
+
+I specialize in creating **reliable, secure, and well-structured integrations** — especially for WordPress environments and custom backend services.
+
+---
+
+## 🛠 Tech Stack
 
 **Languages**  
-`JavaScript` `Python` `PHP` `Dart` `HTML` `CSS`
+`JavaScript` `TypeScript` `PHP` `Dart` `HTML` `CSS`
+
+**Web Development**  
+`WordPress` `WooCommerce` `Node.js` `Express` `REST APIs`
 
 **Frontend & Mobile**  
-`React` `Next.js` `React Native` `Flutter` `TailwindCSS` `Bootstrap`
+`React` `Next.js` `Flutter` `TailwindCSS`
 
-**Backend & Tools**  
-`Node.js` `Express` `REST APIs` `WordPress` `WooCommerce` `MySQL` `Git` `GitHub Actions`
+**Tools**  
+`Git` `GitHub` `GitHub Actions` `Postman` `cURL`  
 
 ---
 
-## 🔌 Third-Party API Integrations (Highlights)
+## 💡 AI-Assisted Development
 
-- **Payments**: PayPal integrations for e-commerce and custom checkouts.
-- **Marketing**: SendGrid, Facebook Business, Google DV360, YouTube API.
-- **Location & Maps**: Google Maps, Mapbox, OpenStreetMap.
-- **CRM & Data Sync**: HubSpot integrations for syncing leads and events.
-- **Reporting**: Custom reporting tools combining multiple Ads APIs and automating report generation.
+I use tools like **ChatGPT, Claude, Gemini, and GitHub Copilot** to accelerate development.  
+This includes:
+- Training AI assistants with project-specific contexts  
+- Debugging before commit  
+- Code review & refactoring suggestions  
+- Performance and architecture evaluations  
+
+AI is a daily part of how I learn and build better software.
 
 ---
 
 ## 📌 Featured Projects
 
-- **Expense Track (Flutter)** – Simple expense tracking app with categories and charts.  
-  👉 `expense-track`
+### 🔹 **Real Estate Sync (WordPress Plugin)**
+Custom plugin that synchronizes properties from an external Real Estate platform into WordPress.  
+➡️ *API integration, custom fields, admin UI, sync workflow*
 
-- **Flutter Meals App** – Navigation through multiple screens and basic data management.  
-  👉 `Flutter-Meals`
+### 🔹 **CardNet Payment Gateway (WooCommerce)**
+WooCommerce gateway to process card payments using CardNet’s PWCheckout.js (Dominican Republic).  
+➡️ *Hosted tokenization, Payment API, secure checkout flow*
 
-- **Quiz App (Flutter)** – Educational quiz app focused on practicing Flutter fundamentals.  
-  👉 `Flutter-Quizz`
+### 🔹 **Flutter Expense Tracker**
+A simple, clean Flutter app for tracking expenses with dynamic charts.  
+➡️ *UI Composition, State Management*
 
-- **Personal Portfolio** – My personal website and portfolio.  
-  👉 `ysidroalmonte.com`
+### 🔹 **Flutter Meals App**
+Navigation, filtering, and multi-screen Flutter architecture.
+
+### 🔹 **Flutter Quiz App**
+Lightweight quiz UI to practice Flutter fundamentals.
 
 ---
 
-## 📫 Contact
+## 🌍 Portfolio & Contact
 
-- 🌐 Portfolio: [ysidroalmonte.com](https://ysidroalmonte.com/)
-- 💼 LinkedIn: *[Ysidro Almonte](https://www.linkedin.com/in/ysidro-almonte/)*
+📌 **Portfolio:** https://ysidroalmonte.com  
+📌 **GitHub:** https://github.com/ysidro  
+📌 **LinkedIn:** https://www.linkedin.com/in/ysidro-almonte/
 
+
+---
+
+## 🤝 Let’s Connect
+
+If you're working on WordPress APIs, mobile apps, or custom integrations, feel free to reach out.  
+I'm always open to new projects, collaborations, and interesting technical challenges.
 
