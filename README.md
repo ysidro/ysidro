@@ -29,7 +29,7 @@ I specialize in creating **reliable, secure, and well-structured integrations** 
 ## 🛠 Tech Stack
 
 **Languages**  
-`JavaScript` `TypeScript` `PHP` `Dart` `HTML` `CSS`
+`JavaScript` `Python` `Go` `PHP` `Dart` `HTML` `CSS`
 
 **Web Development**  
 `WordPress` `WooCommerce` `Node.js` `Express` `REST APIs`
